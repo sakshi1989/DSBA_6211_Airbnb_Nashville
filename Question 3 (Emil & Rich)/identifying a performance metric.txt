@@ -1,0 +1,15 @@
+Please propose a reasonable indicator(s) to quantify individual listings’ 
+performance.
+ For instance: average monthly occupancy rate, average monthly income, 
+and/or average monthly reviews 
+
+# of reviews will be the main estimator for performance - possiblly weighted by review score?
+-would like to calculate income, but this becomes an issue if we can't identify the exact house and estimate how much the property is actually valued at ex: a $500k house should be expected to bring in 2x the income as a $250k house
+	-perhaps we can get around this with an "income per accomodation" kind of metric to remove unknown variability of house value but this is still not perfect as a house with king/king/queen beds != to a house with 6 twin beds
+	-also lots of inconsistencies in the data ex: 
+		-3 beds : accomodates 2
+		-3 beds : accomodates 10
+		-8 beds : accomodates 12
+		-3 beds : accomodates 1
+		-clearly these are all very different properties and we can't fit them equally to the same metric but if we had to pick one of these metrics, it seems like the accomodation quantity metric is the best
+	-becasue of these considerations, I'm resistant to rely on a metric describing the property and would prefer to simply focus on reviews per month as a metric and leave it up to the consumers to be choosing properties that are competitive and market value matches the property offerings

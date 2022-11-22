@@ -12,4 +12,4 @@ and/or average monthly reviews
 		-8 beds : accomodates 12
 		-3 beds : accomodates 1
 		-clearly these are all very different properties and we can't fit them equally to the same metric but if we had to pick one of these metrics, it seems like the accomodation quantity metric is the best
-	-becasue of these considerations, I'm resistant to rely on a metric describing the property and would prefer to simply focus on reviews per month as a metric and leave it up to the consumers to be choosing properties that are competitive and market value matches the property offerings
+	-becasue of these considerations, I'm resistant to rely on any metric describing the property and would prefer to simply focus on reviews per month as a metric and leave it up to the consumers to be choosing properties that are competitive and where market value matches the property offerings or the property would simply underperform anyway
